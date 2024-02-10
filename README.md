@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hello there!
+
+
+
+
+### 我是 *HACKERSam*
+
+### 来自 *HACKERSam Studios*
+
+### 主要工作是：做字体、研究汉字、制作人造语言等……
+
+### 商业合作：*3582930858@qq.com*
+
+> [!WARNING]
+>
+> 1.商业合作不接任何打印、文章等其他无关工作
+>
+> 2.请认准NanoFont字库行业，拒绝盗版
+>
+> 3.本字库制造的字体允许二创，制造的字体统一按照SIL Open Font License精改
+
+> [!IMPORTANT]
+>
+> 如果我制造的成品中，有错误的地方，请尽快联系，以解决相关问题
 
 <!--
-**HACKERSam2011/HACKERSam2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+非常的美味，非常的新鲜
+像啊，很像啊（赞赏）
 
-Here are some ideas to get you started:
+对了，你在这里干嘛？
+快离开！
+please!
+我很忙（大悲）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+## 我们的誓言：*make perfect~ | 追求完美*
