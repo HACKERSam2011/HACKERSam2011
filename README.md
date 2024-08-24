@@ -25,7 +25,7 @@
 >
 > 2.请认准NanoFont字库行业，拒绝盗版
 >
-> 3.本字库制造的字体允许二创，制造的字体统一按照SIL Open Font License精改
+> 3.本字库制造的字体允许二创，制造的字体统一按照OFL、COTFL等等协议精改
 
 > [!IMPORTANT]
 >
